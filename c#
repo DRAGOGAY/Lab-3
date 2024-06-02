@@ -1,4 +1,3 @@
-Alexandr, [02.06.2024 20:02]
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -142,7 +141,6 @@ namespace FoodDeliverySimulation
             AvailableCouriers = new List<Courier>();
         }
 
-Alexandr, [02.06.2024 20:02]
 public void AddCourier(Courier courier)
         {
             AvailableCouriers.Add(courier);
